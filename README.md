@@ -31,3 +31,9 @@ $db['default'] = array( <br>
 	'save_queries' => TRUE<br>
 );
 
+her şeyi dogru yaptıyasanız sayfa yolu index.php  yi silmek için .htacces kullanmadıgınızı varsayarak su sekilde olacaktir.
+http://localhost/example/index.php/auth/register <br>
+http://localhost/example/index.php/auth/login <br>
+
+html tasarımı kısmında yapilmiş hatalar düzeltilecektir.
+
