@@ -8,13 +8,12 @@ ilk yapacaginiz şey kullandıgınız veri tabanında users adlı bir tablo hazi
 user_id, username, password, email, created_date,gender adında tablolar olusturmak
 
 daha sonrasında database baglantılarını şu kısımda "database.php" de ki 'database' => 'login', kısmını kendi database ismini yazmanız gerekmektedir.
-
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 	'username' => 'root',
-	'password' => '',
-	'database' => 'login', //burdaki login benim databasede kullandıgım isimdir. tabloyu user adına acmanız gerekmekte ve login yerine basta tanımladıgınız database ismini yazmanız gerekmektedir!!
+	'password' => '', <br>
+	'database' => 'login', //burdaki login benim databasede kullandıgım isimdir. tabloyu user adına acmanız gerekmekte ve login yerine basta tanımladıgınız database ismini yazmanız gerekmektedir!!<br>
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
