@@ -1,5 +1,5 @@
 # Jetok-with-Codeigniter<br>
-*login işlemi* <br>
+*login ve register işlemi* <br>
 <hr>
 
 
