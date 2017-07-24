@@ -1,6 +1,7 @@
 # Jetok-with-Codeigniter<br>
-<hr>
 *login işlemi* <br>
+<hr>
+
 
 öncelikle application->config.php icerisindeki base_url yi kendi url'ini yapmayı unutmayın!<br>
 
