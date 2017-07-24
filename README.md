@@ -1,5 +1,7 @@
 # Jetok-with-Codeigniter<br>
-*login işlemi* 
+<hr>
+*login işlemi* <br>
+
 öncelikle application->config.php icerisindeki base_url yi kendi url'ini yapmayı unutmayın!<br>
 
 $config['base_url'] = 'http://localhost/example/';<br>
@@ -38,5 +40,4 @@ http://localhost/example/index.php/auth/login <br>
 
 html tasarımı kısmında yapilmiş hatalar düzeltilecektir.
 
----------------------------------------------------------------------
-
+<hr>
